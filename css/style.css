@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.navbar {
+    background: lightslategray;
+}
+
+.quem-somos{
+    background-color: grey;
+    color: whitesmoke;
+}
+
+.margin{
+    padding-top: 13px;
+    padding-bottom: 40px;
+}
+
+.parceiros{
+    background-color: darkgrey;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
