@@ -3,11 +3,11 @@ body{
     font-style: italic;
 }
 .navbar {
-    background: lightslategray;
+    background: gainsboro;
 }
 
 .quem-somos{
-    background-color: grey;
+    background-color: rgb(19, 18, 18);
     color: whitesmoke;
 }
 
